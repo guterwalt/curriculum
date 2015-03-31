@@ -155,4 +155,5 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Alex Perez's solution](https://github.com/alex-perez7/sketchpad) | [View in browser](http://htmlpreview.github.io/?https://github.com/alex-perez7/sketchpad/blob/master/sketch.html)
 * [Gb69010p's solution](https://github.com/gb69010p/Etch-A-Sketch) | [View in browser](http://htmlpreview.github.io/?https://github.com/gb69010p/Etch-A-Sketch/blob/master/index.html)
 * [wellj's solution](https://github.com/wellsj/jquery-project) | [View in browser](http://htmlpreview.github.io/?https://github.com/wellsj/jquery-project/blob/master/index.html)
+* [Waltero Steebero's solution](https://github.com/guterwalt/etchSketch) [View in browser](http://htmlpreview.github.io/?https://raw.githubusercontent.com/guterwalt/etchSketch/master/html/etchSketch.html)
 * Add your solution above this line!
